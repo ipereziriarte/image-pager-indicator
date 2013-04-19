@@ -1,6 +1,6 @@
 #Android Image Viewer with Pager Indicator
 ===
-
+ ![Image Viewer with Pager Indicator Sample Screenshots][3]
 This is an example of using a view pager to show an small gallery of images with a progress indicator
 
 ##Usage
@@ -14,5 +14,6 @@ Repeat the previous step on the library project
 + Powered by  Jake Warton's View Pager indicator [2]
 
 ---
-+ [1] https://github.com/chiuki/android-swipe-image-viewer
-+ [2] https://github.com/JakeWharton/Android-ViewPagerIndicator
+[1]: https://github.com/chiuki/android-swipe-image-viewer
+[2]: https://github.com/JakeWharton/Android-ViewPagerIndicator
+[3]: https://raw.github.com/estornino/image-pager-indicator/master/device.png
