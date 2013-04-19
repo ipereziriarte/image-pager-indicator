@@ -1,6 +1,6 @@
 #Android Image Viewer with Pager Indicator
 ===
- ![Image Viewer with Pager Indicator Sample Screenshots][3]
+ ![Image Viewer with Pager Indicator Sample Screenshots][3]  
 This is an example of using a view pager to show an small gallery of images with a progress indicator
 
 ##Usage
