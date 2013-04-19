@@ -1,7 +1,15 @@
-Android Image Viewer with Pager Indicator
+#Android Image Viewer with Pager Indicator
 ===
 
 This is an example of using a view pager to show an small gallery of images with a progress indicator
+
+##Usage
+Download Jake Warton's View Pager Indicator and add it as a Library Project
+Fix the support Library dependencies by right clicking in the main proyect into android tools, add support library
+Repeat the previous step on the library project
+
+##Credits
+
 This example is based on Chiukis Image Viewer [1]
 Added the power of Jake Warton's View Pager indicator [2]
 
